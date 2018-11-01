@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300|Lato&subset=latin,latin-ext);
+
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Lato;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+    background-color: darkgreen;
+}
+.log {
+	margin: 0 auto;
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+
+a {
+	height: 50px;
+	width: 250px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 5px;
+	color: #ffffff;
+	border: none;
+	background: darkblue;
+	font-size: 2em;
+	text-shadow: 1px 1px 30px #666;
+}

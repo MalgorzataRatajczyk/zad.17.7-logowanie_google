@@ -1,0 +1,14 @@
+body {
+    width: 100%;
+    background-color: #777;
+}
+
+.logged {
+    margin: 0 auto;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    font-family: cursive;
+}
